@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I%27m+Pedro-h1-index.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I%27m+Pedro-h1.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -20,7 +20,7 @@
 
 <b>My Stack:</b>
 <p align="center">
-  <a href="https://github.com/Pedro-h1-index">
+  <a href="https://github.com/Pedro-h1">
     <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50" alt="CSS3">
     <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="50" alt="Figma">
     <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="50" alt="GitHub">
@@ -38,12 +38,12 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      <!-- stats para a conta Pedro-h-index -->
-      <img alt="GitHub Stats (Pedro-h-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h&theme=radical&show_icons=true&count_private=true&hide=issues">
+      <!-- stats para a conta Pedro-h1 -->
+      <img alt="GitHub Stats (Pedro-h1)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h1&theme=radical&show_icons=true&count_private=true&hide=issues">
     </td>
     <td>
-      <!-- linguagens para a conta Pedro-h1-index -->
-      <img alt="Top Langs (Pedro-h1-index)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1&theme=radical&layout=compact">
+      <!-- linguagens para a conta Pedro-h1 -->
+      <img alt="Top Langs (Pedro-h1)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1&theme=radical&layout=compact">
     </td>
   </tr>
 </table>
