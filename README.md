@@ -1,4 +1,3 @@
-não foi de novo:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I%27m+Pedro-h1-index.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <div align="center">
@@ -53,6 +52,7 @@ não foi de novo:
   <a href="mailto:contato@pedrohenriqueprand@gmail.com">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
 
+<div align="center">
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
+</div>
