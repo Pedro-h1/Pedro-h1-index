@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img alt="Avatar" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e91d204f-498d-4db0-a481-0f1e1190ce5d/dawsnuc-3d5beba6-be0a-4079-a728-2d44d6d126bf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U5MWQyMDRmLTQ5OGQtNGRiMC1hNDgxLTBmMWUxMTkwY2U1ZFwvZGF3c251Yy0zZDViZWJhNi1iZTBhLTQwNzktYTcyOC0yZDQ0ZDZkMTI2YmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2GVRt97QR5p9Cnge8EPAILP8yamCVVL6eccfJsCehnQ" width="300">
+  <img alt="Avatar" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e91d204f-498d-4db0-a481-0f1e1190ce5d/dawsnuc-3d5beba6-be0a-4079-a728-2d44d6d126bf.png" width="300">
 </div>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1-index&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Pedro-h1-index)
@@ -25,11 +25,16 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50" alt="CSS3">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" alt="JavaScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" alt="React">
-    <img src="https://iconlogovector.com/uploads/images/2024/10/lg-671f67a947eae-Bulma-CSS-Framework.webp" width="50" alt="Bulma">
-    <img src="https://www.drupal.org/files/project-images/screenshot_361.png" width="50" alt="Tailwind">
-    <img src="https://br.vuejs.org/images/logo.png" width="50" alt="Vue.js">
+    <img src="https://cdn.bulma.io/bulma-logo.png" width="50" alt="Bulma">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Tailwind_CSS_Logo.svg" width="50" alt="Tailwind CSS">
+    <img src="https://vuejs.org/images/logo.png" width="50" alt="Vue.js">
   </a>
 </p>
+
+<div align="center">
+  <!-- Pixel art do Rick Sanchez -->
+  <img src="https://static.alphacoders.com/images/154159.png" width="100" alt="Rick Sanchez Pixel Art">
+</div>
 
 <table align="center" width="100%">
   <tr>
