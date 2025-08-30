@@ -10,7 +10,7 @@
   <img src="https://www.nicepng.com/png/full/165-1658590_rick-sanchez-rick-sanchez-pixel-art.png" width="300">
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Pedro-h1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=viridescent)
 
 <div align="center">
   <b>Sobre mim:</b>
