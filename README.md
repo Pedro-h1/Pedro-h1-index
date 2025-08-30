@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I%27m+Pedro-h1-index;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I%27m+Pedro-h1-index.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <div align="center">
   
@@ -10,7 +10,7 @@
   <img src="https://www.nicepng.com/png/full/165-1658590_rick-sanchez-rick-sanchez-pixel-art.png" width="300">
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1-index&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Pedro-h1-index)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Pedro-h1)
 
 <div align="center">
   <b>Sobre mim:</b>
@@ -21,13 +21,15 @@
 <b>My Stack:</b>
 <p align="center">
   <a href="https://github.com/Pedro-h1-index">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="50" alt="HTML5">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50" alt="CSS3">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" alt="JavaScript">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" alt="React">
-    <img src="https://w7.pngwing.com/pngs/95/693/png-transparent-bulma-hd-logo.png" width="50" alt="Bulma">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Tailwind_CSS_Logo.svg" width="50" alt="Tailwind CSS">
-    <img src="https://vuejs.org/images/logo.png" width="50" alt="Vue.js">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50" alt="CSS3">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="50" alt="Figma">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="50" alt="GitHub">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="50" alt="HTML5">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" alt="JavaScript">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="50" alt="React">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" width="50" alt="Tailwind CSS">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" alt="VSCode">
+    <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" width="50" alt="Vue.js">
   </a>
 </p>
 
@@ -37,11 +39,11 @@
   <tr>
     <td>
       <!-- stats para a conta Pedro-h-index -->
-      <img alt="GitHub Stats (Pedro-h-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h-index&theme=radical&show_icons=true&count_private=true&hide=issues">
+      <img alt="GitHub Stats (Pedro-h-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h&theme=radical&show_icons=true&count_private=true&hide=issues">
     </td>
     <td>
       <!-- linguagens para a conta Pedro-h1-index -->
-      <img alt="Top Langs (Pedro-h1-index)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1-index&theme=radical&layout=compact">
+      <img alt="Top Langs (Pedro-h1-index)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1&theme=radical&layout=compact">
     </td>
   </tr>
 </table>
