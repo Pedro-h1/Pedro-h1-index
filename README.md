@@ -10,7 +10,7 @@
   <img src="https://www.nicepng.com/png/full/165-1658590_rick-sanchez-rick-sanchez-pixel-art.png" width="300">
 </div>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1&data=followers,repositories,stars,commits)](https://github.com/Pedro-h1)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1-index&data=followers,repositories,stars,commits)](https://github.com/Pedro-h1-index)
 
 <div align="center">
   <b>Sobre mim:</b>
@@ -38,12 +38,12 @@
 <table align="center" width="100%">
   <tr>
     <td>
-      <!-- stats para a conta Pedro-h-index -->
-      <img alt="GitHub Stats (Pedro-h-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h&theme=radical&show_icons=true&count_private=true&hide=issues">
+      <!-- stats para a conta Pedro-h1-index -->
+      <img alt="GitHub Stats (Pedro-h1-index)" src="https://github-readme-stats.vercel.app/api?username=Pedro-h1-index&theme=radical&show_icons=true&count_private=true&hide=issues">
     </td>
     <td>
       <!-- linguagens para a conta Pedro-h1-index -->
-      <img alt="Top Langs (Pedro-h1-index)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1&theme=radical&layout=compact">
+      <img alt="Top Langs (Pedro-h1-index)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-h1-index&theme=radical&layout=compact">
     </td>
   </tr>
 </table>
