@@ -54,6 +54,6 @@
   </a>
 </div>
 
-<table aling="center" width=100%"
+<table aling="center" width=100%">
 ![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
 </table>
