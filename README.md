@@ -10,7 +10,10 @@
   <img src="https://www.nicepng.com/png/full/165-1658590_rick-sanchez-rick-sanchez-pixel-art.png" width="300">
 </div>
 
+<div align="center">
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Lucas-index&data=followers,repositories,stars,commits)](https://github.com/Lucas-index/github-widgetbox)
+</div>
+
 <div align="center">
   <b>Sobre mim:</b>
   <p>Estudante de programação Front-End no SENAI e também autodidata.</p>
