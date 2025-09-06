@@ -10,7 +10,7 @@
   <img src="https://www.nicepng.com/png/full/165-1658590_rick-sanchez-rick-sanchez-pixel-art.png" width="300">
 </div>
 
-<div align="center">[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Pedro-h1-index&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/Pedro-h1-index)</div>
+<div align="center">[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)</div>
 
 <div align="center">
   <b>Sobre mim:</b>
