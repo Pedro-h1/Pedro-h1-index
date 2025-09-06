@@ -18,7 +18,7 @@
   <p>Sou apaixonado pela área de Web Design, sendo experiente nela e em Design UX e UI.</p>
 </div>
 
-<b>My Stack:</b>
+<p align="center"><b>My Stack:</b></p>
 <p align="center">
   <a href="https://github.com/Pedro-h1-index">
     <img src="https://raw.githubusercontent.com/Pedro-h1/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" width="50" alt="CSS3">
